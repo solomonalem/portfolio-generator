@@ -18,7 +18,7 @@
 
 ## Installation
 Download or clone the repo to your local machine and install all the dependencies using 'npm install'. 
-After you nstall it run the app from the terminal using 'node index'
+After you install all it's dependencies run the app from the terminal using 'node index'
 
 ## Usage
  run it from your code editor terminal 'node index'
