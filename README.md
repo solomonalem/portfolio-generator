@@ -7,7 +7,7 @@
 
 
 ## Description
- Its an app that generates a portfolio site.User answers the need questions and with all the information given it will generate a new portfolio site.It has two project display options if you select the featured option the project will take all the width available on the row while the unfeatured ones takes only half of the screen width.
+ Its an app that generates a portfolio site.User answers the needed questions and with all the information given it will generate a new portfolio site with About,Work and footer section on it.It has two project display options if you select the featured option the project will take all the width available on the row while the unfeatured ones takes only half of the screen width.
 ##  Table of Contents
 
 * [Installation](#installation)
